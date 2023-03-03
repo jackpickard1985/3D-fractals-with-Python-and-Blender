@@ -4,7 +4,7 @@ import os
 os.chdir('C:\\Users\\jackp\\OneDrive\\FRACTAL SALES\\NFT\\Periodic table\\Blender\\SVG')
 #set working directory
 
-frac_no = 15
+frac_no = 1
 svg_name = str(frac_no) + ".svg"
 
 bpy.ops.import_curve.svg (filepath=svg_name) #load svg
