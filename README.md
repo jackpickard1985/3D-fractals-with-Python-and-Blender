@@ -1,5 +1,5 @@
 # 3D-fractals-with-Python-and-Blender
-Integrate Python code with Blender open-source CAD to automate conversion of SVG vectors into moving 3D fractals
+Integrate Python code with Blender open-source CAD to automate conversion of SVG vectors into animated 3D fractals
 
 Designed to run inside Blender and take control of the interface
 
